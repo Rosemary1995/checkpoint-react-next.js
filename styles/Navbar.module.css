@@ -1,0 +1,17 @@
+/* styles/Navbar.module.css */
+.nav {
+  background-color: #343a40; /* Dark grey background for navigation */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav a {
+  color: #fff; /* White text for links */
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
